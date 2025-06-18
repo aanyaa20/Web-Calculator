@@ -1,2 +1,19 @@
-# Web-Calculator
-SmartCalc is a responsive and user-friendly web calculator created as part of AK Infratech’s Summer Internship 2025. Built using HTML, CSS, and JavaScript, it performs all standard arithmetic functions and adapts smoothly across devices. The project was aimed at strengthening hands-on frontend development skills through real-world implementation.
+SmartCalc – Web Calculator
+
+This is a simple and responsive web calculator built using HTML, CSS, and JavaScript.
+
+Features:
+- Basic arithmetic operations: add, subtract, multiply, divide
+- Clear (C) and backspace (⌫) functions
+- Supports decimal and percentage inputs
+- Responsive layout for mobile and desktop
+
+Technologies Used:
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+How to Use:
+Open the index.html file in any browser to start using the calculator.
+
+Project created as part of the AK Infratech Summer Internship Program 2025.
