@@ -16,4 +16,4 @@ Technologies Used:
 How to Use:
 Open the index.html file in any browser to start using the calculator.
 
-Project created as part of the AK Infratech Summer Internship Program 2025.
+
