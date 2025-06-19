@@ -7,12 +7,16 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <div class="container">
+    
+<h1 class="title">Calc<sup class="plus">+</sup></h1>
+
+
 <div class="calculator">
   
-  <!-- DISPLAY AREA - only for showing text like 0 or 123+4 -->
   <div class="calculator-display" id="display">0</div>
 
-  <!-- BUTTONS GRID STARTS HERE -->
+  
   <div class="buttons">
     <button class="btn action" onclick="clearDisplay()">C</button>
     <button class="btn action" onclick="backspace()">⌫</button>
@@ -39,7 +43,7 @@
     <button class="btn" onclick="appendDot()">.</button>
     <button class="btn equal" onclick="calculate()">=</button>
   </div>
-
+</div>
 </div>
 
   <script src="script.js"></script>

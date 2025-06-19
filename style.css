@@ -10,16 +10,42 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20220511/pngtree-vector-background-of-scientific-and-technological-system-for-calculating-complex-data-image_1298991.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 60px;
+  color: white;
+   align-self: flex-end;
+  margin-right: 16px
+}
+
+.title .plus {
+  color: #3b82f6; 
+  font-size: 0.6em;  
+  vertical-align: super; 
+}
+
 .calculator {
   background: rgba(26, 25, 25, 0.08);
   backdrop-filter: blur(12px);
   border-radius: 20px;
-  padding: 20px;
+  padding: 40px;
   box-shadow: 0 8px 32px rgba(0,0,0,0.3);
   width: 100%;
   max-width: 400px;
     box-sizing: border-box;
+    scale: 1.2;
 }
 
 .calculator-display {
